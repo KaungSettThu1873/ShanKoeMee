@@ -7,12 +7,12 @@ import Header from './Components/Header';
 
 function App() {
   return (
-    <div className=" container-lg-fluid row  text-center justify-content-center bg-Color ">
-       <div className=" col-lg-5  p-lg-3 " >
-       <Header/>
-        <Content/>
-        <Footer/>
-       </div>
+    <div className=" container-fluid row  text-center justify-content-center  ">
+        <div className="col-lg-5 ms-lg-4 ms-md-4 ms-sm-4 ms-4   " >
+              <Header/>
+              <Content/>
+              <Footer/>
+        </div> 
     </div>
   )
 }

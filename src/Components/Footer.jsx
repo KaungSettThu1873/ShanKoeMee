@@ -4,7 +4,7 @@ import "./fontsSizeFooter.css"
 
 const Footer = () => {
   return (
-    <div>
+    <div >
         <div className='mt-lg-4 mt-md-3 mt-sm-2 mt-1' >
             <img src='/img/footer.jpg' className='w-50'  />
         </div>
