@@ -51,7 +51,7 @@ const Header = () => {
                 />
               </div>
             </div>
-            <hr />
+            <hr />viber://add?number=09263430377
             <a
               href="viber://add?number=09263430377"
               className="btn btn-primary w-100  mt-lg-3 mt-md-2 mt-sm-1 mt-1"
