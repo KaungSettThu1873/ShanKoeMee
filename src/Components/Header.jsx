@@ -53,7 +53,7 @@ const Header = () => {
             </div>
             <hr />
             <a
-              href="viber://pa?chatURI=09981864561?text=hi"
+              href="viber://pa?chatURI=09263430377?text=hi"
               className="btn btn-primary w-100  mt-lg-3 mt-md-2 mt-sm-1 mt-1"
             >
               Viber Customer Service သို့ ဆက်သွယ်ရန်{" "}
